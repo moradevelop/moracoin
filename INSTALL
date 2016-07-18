@@ -1,0 +1,9 @@
+Building Moracoin
+
+See doc/readme-qt.rst for instructions on building Moracoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Moracoin.
+
+See doc/build-*.txt for instructions on building moracoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Moracoin.
